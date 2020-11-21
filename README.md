@@ -1,2 +1,3 @@
-# CrackMe
-I run crack me challenges on a discord server. This repo will store all solved challenges 
+# Challenges
+I want to get UoG compsci and compEng students into reverse engineering. This repo will store all solved challenges.
+

@@ -10,5 +10,5 @@ Each folder contains all you need to do the challange and will somtimes contain 
 |         Level  | Description              
 |----------------|-------------------------------|
 |0				       |  Very easy almost 0 RE skills required (solved without)
-|1          	   |           
+|1          	   |  This can           
 |2               |

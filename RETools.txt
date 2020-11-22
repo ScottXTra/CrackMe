@@ -1,0 +1,12 @@
+
+***Cheat Engine*** (debugger, kernel debugger, Ultimap2(very powerfull), runtime disassembler, and more)
+https://www.cheatengine.org/download/CheatEngine7.1_MissingSetup.rar <--- without annoying setup file
+
+***IdaPro*** (static/runtime time disassembler,debugger, and decompiler[if you get the crack], and more)
+(get the torrent on nulled.io or piratebay ) or use https://www.hex-rays.com/products/ida/support/download_freeware/ without decompiler
+
+***Ghidra*** (static disassembler and decompiler, and more)
+https://ghidra-sre.org/
+
+***HxD*** (Hex editor)
+https://mh-nexus.de/en/downloads.php?product=HxD20

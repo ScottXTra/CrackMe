@@ -1,5 +1,5 @@
 # Challenges
-I want to get UoG compsci and compEng students into reverse engineering. This repo will store all solved challenges.
+I want to get UoG compsci and compEng students into reverse engineering. This repo will store all solved and unsolved challenges.
 
 # Files
 

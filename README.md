@@ -11,4 +11,4 @@ Each folder contains all you need to do the challange and will somtimes contain 
 |----------------|-------------------------------|
 |0				       |  Very easy almost 0 RE skills required (solved without)
 |1          	   |  This can be solved and/or cracked in 3 ish ways with varying levels of RE skills (solved with very little RE)        
-|2               |  
+|2               |  Thie one requires youtube tutorial level RE skills.

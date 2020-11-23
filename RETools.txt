@@ -10,3 +10,6 @@ https://ghidra-sre.org/
 
 HxD (Hex editor)
 https://mh-nexus.de/en/downloads.php?product=HxD20
+
+Cutter (static/runtime time disassembler,debugger, and decompiler, and more)
+https://cutter.re/

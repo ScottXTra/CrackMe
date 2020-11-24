@@ -2,7 +2,7 @@ Goal:
 Find the password and get the correct output 
 
 Note for hint.jpg 1:
-This is the type of output you are lookign for
+This is the type of output you are looking for
 
 Note for hint.jpg 2:
 The thing you are looking for is somewhere in this control flow graph

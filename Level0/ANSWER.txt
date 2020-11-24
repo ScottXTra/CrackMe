@@ -1,0 +1,1 @@
+Many ways to solve this. It was solved by a user changing the .exe extention to .txt and reading the raw binary to find the password string

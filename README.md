@@ -5,7 +5,7 @@ I want to get UoG compsci and compEng students into reverse engineering. This re
 
 # Files
 
-Each folder contains all you need to do the challange and will somtimes contain a video tutorial made by myself
+Each folder contains all (other than software that would be illegal for me to post) you need to do the challange and will somtimes contain a video tutorial made by myself
 
 ## Levels
 
